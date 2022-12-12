@@ -8,7 +8,7 @@ Persian language for Laravel framework
             ├── auth.php
             ├── pagination.php
             ├── passwords.php
-            └── validation.php
+```          └── validation.php
             
             
 how to use ?    
@@ -23,7 +23,11 @@ how to use ?
 
 
 
-<div dir="rtl">
+
+                
+                
+```             
+  <div dir="rtl">
 
 #راهنمای نصب                                     
 
@@ -45,3 +49,5 @@ how to use ?
       "name"                      => "نام",
 
 </div>
+
+
