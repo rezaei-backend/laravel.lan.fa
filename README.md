@@ -11,11 +11,16 @@ laravel/
             └── validation.php
             
             
-how to use ?
-into your laravel project go to the this address: \resources\lang and past our fa.json and fa directory in there.
-then in your laravel project go to the this address: \config and open app.php then search for 'locale' => 'en' and change it to 'locale' => 'fa'
-done.
+how to use ?    
 
+
+    into your laravel project go to the this address: \resources\lang and past our fa.json and fa directory in there.
+    then in your laravel project go to the this address: \config and open app.php then search for 'locale' => 'en' and change it to 'locale' => 'fa'
+    done.
+
+
+
+راهنمای نصب
 
 
 
